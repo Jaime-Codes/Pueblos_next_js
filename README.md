@@ -43,7 +43,7 @@ On the technical side, I did get a better feel for the MVC model. I had to creat
   </a>
 
   <h3 align="center">Querido Pueblo</h3>
-
+<a href="https://queridopueblo.net">Live Website</a>
   <p align="center">
     Every place tells a story. Whether it’s found in cobblestone streets, the endless alleys, the homemade food and winding markets or the people hanging out in the town square. My hope is that this site will inspire you to plan that trip you’ve been holding off on, pack your bags, and add the next chapter to your story…
     <br />
